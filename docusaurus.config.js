@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://my-cv-example.onrender.com',
+  url: 'https://my-cv-example.herokuapp.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -130,6 +130,6 @@ const config = {
 };
 
 module.exports = {
-  url: 'https://my-cv-example.onrender.com',
+  url: 'https://my-cv-example.herokuapp.com',
   baseUrl: '/',
 };
