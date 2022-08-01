@@ -10,6 +10,6 @@ COPY . .
 
 EXPOSE 3000
 
-RUN yarn build
+RUN yarn run build
 
 CMD [ "yarn", "serve", "--port", "$PORT"]
