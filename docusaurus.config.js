@@ -129,8 +129,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  title: 'My Site',
-  url: 'https://my-cv-example.herokuapp.com',
-  baseUrl: '/',
-};
+module.exports = config;
