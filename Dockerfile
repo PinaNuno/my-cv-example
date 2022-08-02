@@ -10,6 +10,4 @@ COPY . .
 
 RUN yarn run build
 
-EXPOSE $PORT
-
 CMD [ "yarn", "run", "start"]
