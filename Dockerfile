@@ -8,8 +8,6 @@ RUN yarn install
 
 COPY . .
 
-EXPOSE $PORT
-
 RUN yarn run build
 
 CMD [ "yarn", "run", "serve"]
