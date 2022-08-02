@@ -8,8 +8,8 @@ RUN yarn install
 
 COPY . .
 
-EXPOSE 3000
+EXPOSE $PORT
 
 RUN yarn run build
 
-CMD [ "yarn", "serve", "--port", "$PORT"]
+CMD [ "yarn", "serve"]
