@@ -3,46 +3,37 @@ sidebar_position: 1
 slug: '/'
 ---
 
-# Tutorial Intro
+# Nuno Pina
+## Contacts
+Email: nuno95pina@gmail.com 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Cellphone: 910216921
 
-## Getting Started
+Adress: Rua 31 de Outubro nº19 Santo-Quintino 2590-288 Lisboa(Portugal)
 
-Get started by **creating a new site**.
+## Profile
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+I am a Computer Science and Engineering student at ISCTE-IUL, interested in exploring and learning new technologies, currently looking for new opportunities where I can be challenged and grow both professionally and personally. 
 
-### What you'll need
+## Work Experience
+#### Portugues Army
+Soldier 2015-2020
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Education
+#### ISCTE-IUL
+Computer Science and Engineering 2020-
 
-## Generate a new site
+#### Agrupamento de Escolas Joaquim Inácio da Cruz Sobral
+Science and Technology 2010-2014
 
-Generate a new Docusaurus site using the **classic template**.
+## Language Skills
+#### Portuguese 
+Native
+#### English
+Listening(C1), Reading(B2), Writing(B1), Spoken Production(B2), Spoken Interaction(B2)
 
-The classic template will automatically be added to your project after you run the command:
+## Hobbies & Interests
+#### Football
+Federated player from 2001-2015
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Goalkeeper coach sub-11 2021/22
