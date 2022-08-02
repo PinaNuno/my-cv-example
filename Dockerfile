@@ -12,4 +12,4 @@ EXPOSE $PORT
 
 RUN yarn run build
 
-CMD [ "yarn", "serve"]
+CMD [ "yarn", "run", "serve"]
