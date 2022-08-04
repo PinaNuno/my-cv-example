@@ -4,7 +4,7 @@
 
 -Containerized using [Docker](https://github.com/docker/docker.github.io).
 
--Deployed to [Heroku](https://www.heroku.com).
+-Deployed to [Heroku](https://www.heroku.com), a PaaS platform.
 
 -Automated deployment using [GitHubActions](https://docs.github.com/en/actions).
 
