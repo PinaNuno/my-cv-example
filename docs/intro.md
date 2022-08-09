@@ -4,12 +4,6 @@ slug: '/'
 ---
 
 # Nuno Pina
-## Contacts
-Email: nuno95pina@gmail.com 
-
-Cellphone: 910216921
-
-Adress: Rua 31 de Outubro nº19 Santo-Quintino 2590-288 Lisboa(Portugal)
 
 ## Profile
 
